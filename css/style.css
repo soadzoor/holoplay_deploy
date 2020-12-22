@@ -30,6 +30,6 @@ body {
 	touch-action: none;
 }
 
-canvas {
+#playGround canvas {
 	touch-action: none;
 }
